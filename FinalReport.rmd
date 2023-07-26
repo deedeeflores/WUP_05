@@ -96,10 +96,11 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-The P value is .0000001242 from the Chisq test shows that the vaccine is effective in preventing aids among drug users.The fisher exact test shows P value to be.00000423 which makes us reject the null hypothesis.the odds ratio of getting aids is 0.35 times likely than someone who is getting the placebo. the answer still the same.
+The P value is .0000001242 from the Chisq test shows that the vaccine is effective in preventing aids among drug users.The fisher exact test shows P value to be.000000423 which makes us reject the null hypothesis.the odds ratio of getting aids is 0.35 times likely than someone who is getting the placebo. the answer still the same.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+Based on the research of a new preventative aides drug that is effective we have found the vaccine to be effective in preventing aids.
